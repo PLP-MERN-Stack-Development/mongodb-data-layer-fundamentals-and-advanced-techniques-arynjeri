@@ -184,6 +184,7 @@ insertBooks().catch(console.error);
  * 1. Find all books:
  *    db.books.find()
  *
+ *
  * 2. Find books by a specific author:
  *    db.books.find({ author: "George Orwell" })
  *
